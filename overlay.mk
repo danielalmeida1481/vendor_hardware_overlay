@@ -95,6 +95,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-nubia-z18mini \
 	treble-overlay-oneplus-n200 \
 	treble-overlay-oneplus-n200-systemui \
+	treble-overlay-oneplus-op10pro \
+	treble-overlay-oneplus-op10pro-systemui \
 	treble-overlay-oneplus-op6 \
 	treble-overlay-oneplus-op6t \
 	treble-overlay-oneplus-op6t-systemui \
@@ -102,6 +104,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-op8-systemui \
 	treble-overlay-oppo-peqm00 \
 	treble-overlay-oppo-peqm00-systemui \
+	treble-overlay-oppo-reno3pro \
+	treble-overlay-oppo-reno3pro-systemui \
 	treble-overlay-oukitel-wp8pro \
 	treble-overlay-razer-cheryl \
 	treble-overlay-realme-6 \
@@ -124,7 +128,9 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-a40 \
 	treble-overlay-samsung-a50 \
 	treble-overlay-samsung-a51 \
+	treble-overlay-samsung-a51-systemui \
 	treble-overlay-samsung-a51x \
+	treble-overlay-samsung-a52 \
 	treble-overlay-samsung-a60q \
 	treble-overlay-samsung-a7 \
 	treble-overlay-samsung-a70 \
@@ -135,6 +141,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-d1q-systemui \
 	treble-overlay-samsung-d1x \
 	treble-overlay-samsung-d1x-systemui \
+	treble-overlay-samsung-gta2xl \
 	treble-overlay-samsung-gta3xl \
 	treble-overlay-samsung-j6 \
 	treble-overlay-samsung-n9q \
