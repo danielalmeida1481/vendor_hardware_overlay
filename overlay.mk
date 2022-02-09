@@ -79,6 +79,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-moto-g8 \
 	treble-overlay-moto-g8plus \
 	treble-overlay-moto-g8power \
+	treble-overlay-moto-hiphi \
+	treble-overlay-moto-hiphi-systemui \
 	treble-overlay-moto-one \
 	treble-overlay-moto-one-action \
 	treble-overlay-moto-onehyper \
@@ -208,6 +210,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redmigo \
 	treble-overlay-xiaomi-redmik20pro \
 	treble-overlay-xiaomi-redmik20pro-systemui \
+	treble-overlay-xiaomi-redminote10pro \
 	treble-overlay-xiaomi-redminote5 \
 	treble-overlay-xiaomi-redminote6pro \
 	treble-overlay-xiaomi-redminote6pro-systemui \
